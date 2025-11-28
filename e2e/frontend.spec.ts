@@ -1,3 +1,4 @@
+import './playright-coverage' ;
 import { test, expect } from '@playwright/test';
 import fs from 'fs/promises';
 import path from 'path';
