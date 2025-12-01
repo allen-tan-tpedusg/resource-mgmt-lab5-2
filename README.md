@@ -1,2 +1,2 @@
-# resource-mgmt-lab4
-Project files for Dev Ops Lab 4
+# resource-mgmt-lab5-2 (Lab 6 in Week 5-2)
+Project files for Dev Ops Lab 6 Code Coverage
