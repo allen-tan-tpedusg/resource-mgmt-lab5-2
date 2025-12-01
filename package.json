@@ -21,6 +21,7 @@
     "@playwright/test": "^1.57.0",
     "@types/node": "^24.10.1",
     "jest": "^30.2.0",
-    "supertest": "^7.1.4"
+    "supertest": "^7.1.4",
+    "ts-node": "^10.9.2"
   }
 }
