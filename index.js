@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
 server = app.listen(PORT, function () {
   const address = server.address();
   const baseUrl = `http://${address.address == '::' ? 'localhost' : address.address}:${address.port}`;
-  console.log(`Demo project at: ${baseUrl}`);
+  console.log(`Demo project at: ${baseUrl} | 30080 `);
 });
 
 module.exports = { app, server };
